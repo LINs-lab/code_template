@@ -1,2 +1,2 @@
 # Code Template
-This is a template for code on our cluster.
+This is a template for code implementation on our cluster.
