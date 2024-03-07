@@ -1,7 +1,7 @@
 # Template Codebase
 This is a template for code implementation on our cluster.
 
-## Conducting Experiments: A Quick Guide
+# Conducting Experiments: A Quick Guide
 
 This guide outlines a streamlined process for running experiments on the LINs Lab cluster.
 
